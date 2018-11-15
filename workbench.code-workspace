@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "packages/electron-main"
+		},
+		{
+			"path": "packages/electron-browser"
+		},
+		{
+			"path": "packages/base"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "command": "yarn",
+  "echoCommand": true,
+  "tasks": [
+    {
+      "label": "dev-server",
+      "isBackground": true,
+      "type": "npm",
+      "script": "dev"
+    }
+  ]
+}

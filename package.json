@@ -1,0 +1,12 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "lerna": "^3.4.3"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
